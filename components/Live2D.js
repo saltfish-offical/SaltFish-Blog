@@ -45,10 +45,10 @@ export default function Live2D() {
   }
 
   return (
-    <canvas
+    <canvast=
       id='live2d'
       width='280'
-      height='250'
+      heigh'300'
       onClick={handleClick}
       className='cursor-grab'
       onMouseDown={e => e.target.classList.add('cursor-grabbing')}
