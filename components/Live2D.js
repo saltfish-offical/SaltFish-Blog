@@ -55,3 +55,4 @@ return (
     onMouseUp={e => e.target.classList.remove('cursor-grabbing')}
   />
 )
+}
