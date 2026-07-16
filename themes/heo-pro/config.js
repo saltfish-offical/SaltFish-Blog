@@ -4,12 +4,12 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2025-07-11', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '👋Hi，欢迎来到我的博客✨', url: 'https://blog.88lin.eu.org' },
-    { title: 'Ctrl＋D收藏本站不迷路', url: 'https://blog.88lin.eu.org' }
+    { title: '👋Hi，欢迎来到我的博客✨', url: 'https://saltfish.dpdns.org' },
+    { title: 'Ctrl＋D收藏本站不迷路', url: 'https://saltfish.dpdns.org' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -20,10 +20,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '记录分享教程',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'BLOG.88LIN.EU.ORG',
+  HEO_HERO_TITLE_3: 'SALTFISH.DPDNS.ORG',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '生活明朗 万物可爱',
-  HEO_HERO_TITLE_LINK: 'https://blog.88lin.eu.org',
+  HEO_HERO_TITLE_LINK: 'https://saltfish.dpdns.org',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -131,7 +131,7 @@ const CONFIG = {
     }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '公众号',
   HEO_SOCIAL_CARD_TITLE_2: '防失联关注微信公众号',
   HEO_SOCIAL_CARD_TITLE_3: '点击扫码关注公众号',
