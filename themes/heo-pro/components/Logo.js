@@ -18,7 +18,7 @@ const Logo = props => {
         />
         <div id='logo-text' className='group rounded-2xl flex-none relative'>
           <div className='logo md:group-hover:opacity-0 opacity-100 visible md:group-hover:invisible text-lg my-auto rounded dark:border-white duration-200'>
-            茉灵智库
+            咸鱼小窝
           </div>
           <div className='flex justify-center rounded-2xl md:group-hover:bg-indigo-600 w-full md:group-hover:opacity-100 opacity-0 invisible md:group-hover:visible absolute top-1/2 -translate-y-1/2 py-1 duration-200'>
             <Home className={'w-6 h-6 stroke-white stroke-2 '} />
